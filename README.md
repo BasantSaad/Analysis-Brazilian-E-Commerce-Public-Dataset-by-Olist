@@ -1,4 +1,5 @@
 # 🛒 Olist E-Commerce: Data Exploration Analytics
+![Alt Text](Olist%20E-Commerce/Customer%20Analytics_Dashborad.png)
 
 Brazilian Marketplace Analytics & Insights
 
